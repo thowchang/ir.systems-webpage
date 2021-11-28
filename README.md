@@ -38,18 +38,18 @@ body {
  <h1 style="color:white; font-size:300%">ir.systems</h1>
    
  <h5 style="color:white;">*<BR>
-   Information Security Management&nbsp&nbsp<i class="fa fa-external-link"></i> <BR>
+   Information Security&nbsp&nbsp<i class="fa fa-external-link"></i> <BR>
    * <BR>
-   Cyber Defense Management&nbsp&nbsp<i class="fa fa-external-link"></i><BR>
+   Cyber Defense&nbsp&nbsp<i class="fa fa-external-link"></i><BR>
    * <BR>
-   Research, Advisory and Training&nbsp&nbsp<i class="fa fa-external-link"></i></h5>
+   Advisory and Training&nbsp&nbsp<i class="fa fa-external-link"></i></h5>
  </div>
  <BR>  
  <BR>
  <div class="c" style="text-align:center">
  <br>
    <h4 style="color:white;"><i class="fa fa-envelope-o"></i>&nbsp&nbsp&nbspContact:&nbspenquiry@ir.systems</br>
-   <i class="fa fa-globe"></i>&nbsp&nbsp&nbspMain Office:&nbspSingapore&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</h4>
+   <i class="fa fa-globe"></i>&nbsp&nbsp&nbspLocation:&nbspSingapore&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</h4>
  </div>
  <BR>
 
