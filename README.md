@@ -35,12 +35,12 @@ body {
  <BR>
    
  <div class="c" style="text-align:center">
- <h1 style="color:white; font-size:300%">ir.systems</h1>
+ <h1 style="color:white; font-size:300%">irsys</h1>
    
  <h5 style="color:white;">*<BR>
    Information Security&nbsp&nbsp<i class="fa fa-external-link"></i> <BR>
    * <BR>
-   Cyber Defense&nbsp&nbsp<i class="fa fa-external-link"></i><BR>
+   Cybersecurity Risk Management&nbsp&nbsp<i class="fa fa-external-link"></i><BR>
    * <BR>
    Advisory and Training&nbsp&nbsp<i class="fa fa-external-link"></i></h5>
  </div>
